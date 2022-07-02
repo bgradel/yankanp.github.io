@@ -47387,12 +47387,12 @@ L(a,b){var s="your-view-id",r=null
 $.a7J()
 $.i3().SW(s,new A.W3(b),!0)
 this.a.toString
-return new A.ri(new A.oD(new A.ng("Form inside flutter app 2",r,r,r),new A.ED(r,r,1/0,56),r),A.II(A.abe(A.a([B.Gd,A.rw(new A.pI(s,r),500,r)],t.F),B.A7),r,r),r)}}
+return new A.ri(new A.oD(new A.ng("Form inside flutter app 3",r,r,r),new A.ED(r,r,1/0,56),r),A.II(A.abe(A.a([B.Gd,A.rw(new A.pI(s,r),500,r)],t.F),B.A7),r,r),r)}}
 A.W3.prototype={
 $1(a){var s=document.createElement("iframe"),r=this.a,q=t.w
 s.width=B.e.h(r.Y(q).f.a.a)
 s.height=B.e.h(r.Y(q).f.a.b)
-s.src="assets/html/index.html"
+s.src="assets/assets/html/index.html"
 q=s.style
 q.border="none"
 return s},
