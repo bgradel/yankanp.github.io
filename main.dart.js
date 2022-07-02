@@ -47392,7 +47392,7 @@ A.W3.prototype={
 $1(a){var s=document.createElement("iframe"),r=this.a,q=t.w
 s.width=B.e.h(r.Y(q).f.a.a)
 s.height=B.e.h(r.Y(q).f.a.b)
-s.src="assets/index.html"
+s.src="assets/html/index.html"
 q=s.style
 q.border="none"
 return s},
